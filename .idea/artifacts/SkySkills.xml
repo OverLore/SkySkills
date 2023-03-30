@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SkySkills">
-    <output-path>D:/SVN/Eleves/Arnould Luc/NewSkyNeoxx/plugins</output-path>
-    <root id="archive" name="SkySkills.jar">
-      <element id="module-output" name="SkySkills" />
-    </root>
-  </artifact>
-</component>
